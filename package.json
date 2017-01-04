@@ -1,0 +1,22 @@
+{
+  "name": "parese_cupweb6",
+  "version": "0.0.1",
+  "description": "Parse the Cupweb-website",
+  "main": "src/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/StephanMeijer/parsecupweb6.git"
+  },
+  "author": "Stephan Meijer <me@stephanmeijer.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/StephanMeijer/parsecupweb6/issues"
+  },
+  "homepage": "https://github.com/StephanMeijer/parsecupweb6#readme"
+}
